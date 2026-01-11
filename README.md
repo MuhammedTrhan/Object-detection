@@ -1,8 +1,6 @@
 # Object-detection
 Edge-based object detection &amp; tracking (C, ncurses)
 
-# Simple Surveillance Tracker
-
 A small C-based surveillance/demo project that scans image edges for coverage, detects connected components, computes object centroids, and visualizes results using ncurses.
 
 ## Features
